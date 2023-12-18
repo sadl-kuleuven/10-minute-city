@@ -19,3 +19,7 @@ For each of the supply variables, isochrone maps depicting the areas accessible 
 In order to measure the spatial-temporal accessibility for different (sub)themes, heatmaps were created. A heatmap is constructed by overlaying the isochrone maps of each variable within one (sub)theme. The resulting intersecting areas receive a score, calculated as the sum of each variable’s score multiplied by the variable’s weight. The score of a variable equals its weight if the variable is present in the area and equals zero if the variable is not present in the area. The weights are assigned by the user. The level of accessibility of an area is expressed in % and equals its score times 100. The calculations are automated using the software FME. The user can specify the mode of transport (by bike or by foot) and the (sub)theme(s) for which the model should run heatmaps. Also the file location of the supply variables and the destination folder of the resulting heatmaps can be set by the user. 
 ![Accessibility in percentage, on foot](https://github.com/sadl-kuleuven/10-minute-city/blob/main/assets/heatmap%20analyse.jpg)
 *Accessibility in percentage, on foot*
+
+| ![Accessibility in percentage, on foot](https://github.com/sadl-kuleuven/10-minute-city/blob/main/assets/heatmap%20analyse.jpg) | 
+|:--:| 
+| *Accessibility in percentage, on foot* |
