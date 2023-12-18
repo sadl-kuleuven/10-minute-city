@@ -1,6 +1,6 @@
 # 10-minute-city
 
-This repo contains the tutorial written in the framework of the project: “Scientific support for the refinement of the concept of the "10-minute city" that in the context of the municipal plan for sustainable development of the City of Brussels.” It guides the user through the implementation and the execution of the model to construct maps indicating the levels of accessibility within the Administration of the City of Brussels. 
+This repository contains documentation produced within the framework of the project: “Scientific support for the refinement of the concept of the "10-minute city" that in the context of the municipal plan for sustainable development of the City of Brussels.” It guides the user through the implementation and the execution of the model to construct maps indicating the levels of accessibility within the Administration of the City of Brussels. 
 
 ![alt text](https://github.com/sadl-kuleuven/10-minute-city/blob/main/assets/scheme%20of%20the%20variables.png)
 
