@@ -2,7 +2,7 @@
 
 This repo contains the tutorial written in the framework of the project: “Scientific support for the refinement of the concept of the "10-minute city" that in the context of the municipal plan for sustainable development of the City of Brussels.” It guides the user through the implementation and the execution of the model to construct maps indicating the levels of accessibility within the Administration of the City of Brussels. 
 
-![alt text]([http://url/to/img.png](https://github.com/sadl-kuleuven/10-minute-city/blob/main/assets/scheme%20of%20the%20variables.png)
+![alt text](https://github.com/sadl-kuleuven/10-minute-city/blob/main/assets/scheme%20of%20the%20variables.png)
 
 
 The workflow is split in three parts: data preparation, isochrones and heatmaps. A background knowledge of FME is necessary. An overview of the workflow is given elow, with the more detailed tutorial supplied [here](https://github.com/sadl-kuleuven/10-minute-city/blob/main/Tutorial%201.0.pdf)
